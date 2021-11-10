@@ -18,11 +18,10 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<hr />
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=jasurbek01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
 [youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://www.linkedin.com/in/jasurbek-madaminov-66331a1aa/
 [instagram]: https://www.instagram.com/jasurbek10_05/
