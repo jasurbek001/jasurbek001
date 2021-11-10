@@ -19,6 +19,8 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/odnoklassniki.svg" />][odnoklassniki]
+[<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+
 
 
 <br />
@@ -29,3 +31,4 @@
 [instagram]: https://www.instagram.com/jasurbek10_05/
 [facebook]: https://www.facebook.com/jasurbek.madaminov.710/
 [odnoklassniki]: https://ok.ru/profile/567380386742
+[telegram]: http://t.me/flutter_developer01
