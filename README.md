@@ -27,8 +27,6 @@
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=jasurbek01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/jasurbek01/github-readme-stats)
-
 [youtube]: https://youtube.com/codeSTACKr
 [linkedin]: https://www.linkedin.com/in/jasurbek-madaminov-66331a1aa/
 [instagram]: https://www.instagram.com/jasurbek10_05/
