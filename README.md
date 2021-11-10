@@ -17,11 +17,15 @@
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ok.svg" />][odnoklassnik]
 
 
-
+<br />
 <img src="https://github-readme-stats.vercel.app/api?username=jasurbek01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
 [youtube]: https://youtube.com/codeSTACKr
 [linkedin]: https://www.linkedin.com/in/jasurbek-madaminov-66331a1aa/
 [instagram]: https://www.instagram.com/jasurbek10_05/
+[facebook]: https://www.facebook.com/jasurbek.madaminov.710/
+[odnoklassnik]: https://ok.ru/profile/567380386742
