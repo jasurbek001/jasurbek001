@@ -18,7 +18,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/odnoclassnik.svg" />][odnoklassnik]
+[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/odnoklassniki.svg" />][odnoklassniki]
 
 
 <br />
@@ -28,4 +28,4 @@
 [linkedin]: https://www.linkedin.com/in/jasurbek-madaminov-66331a1aa/
 [instagram]: https://www.instagram.com/jasurbek10_05/
 [facebook]: https://www.facebook.com/jasurbek.madaminov.710/
-[odnoklassnik]: https://ok.ru/profile/567380386742
+[odnoklassniki]: https://ok.ru/profile/567380386742
