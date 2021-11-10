@@ -9,7 +9,7 @@
 - 📫 How to reach me: Instagram @jasurbek10_05.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 16 hours working every day.
-<br />
+<hr />
 
 
 ### Connect with me:
